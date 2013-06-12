@@ -12,3 +12,9 @@ node_modules/
 Icon?
 ehthumbs.db
 Thumbs.db
+
+# Override this .gitignore file from
+# .git/info/exclude
+# or
+# ~/.gitignore
+# git config --global core.excludesfile ~/.gitignore

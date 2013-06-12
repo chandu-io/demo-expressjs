@@ -1,0 +1,23 @@
+{
+  "name": "demo-expressjs",
+  "version": "0.0.1",
+  "description": "POC on express.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gitchandu/demo-expressjs.git"
+  },
+  "keywords": [
+    "expressjs",
+    "demo"
+  ],
+  "author": "Chandrasekhar Thotakura",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/gitchandu/demo-expressjs/issues"
+  },
+  "dependencies": {
+    "express": "~3.2.6"
+  },
+  "devDependencies": {}
+}

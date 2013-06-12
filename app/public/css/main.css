@@ -1,0 +1,12 @@
+body {
+	width: 960px;
+	height: 600px;
+	margin: 0 auto;
+	background-color: teal;
+	color: white;
+	cursor: pointer;
+}
+
+.zoom {
+	font-size: 120%;
+}
