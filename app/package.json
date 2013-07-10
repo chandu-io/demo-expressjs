@@ -1,7 +1,7 @@
 {
   "name": "demo-expressjs",
   "version": "0.0.1",
-  "description": "POC on express.js",
+  "description": "POC on express.js, taken from the article (http://blog.modulus.io/nodejs-and-express-static-content)",
   "main": "index.js",
   "repository": {
     "type": "git",
